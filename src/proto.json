@@ -1,0 +1,127 @@
+{
+    "nested": {
+        "LiveMessage": {
+            "fields": {
+                "protoData": {
+                    "rule": "repeated",
+                    "type": "Protodata",
+                    "id": 1
+                }
+            },
+            "nested": {
+                "Player": {
+                    "fields": {
+                        "id": {
+                            "type": "uint32",
+                            "id": 1
+                        },
+                        "name": {
+                            "type": "string",
+                            "id": 2
+                        },
+                        "position": {
+                            "type": "string",
+                            "id": 3
+                        },
+                        "vote": {
+                            "type": "double",
+                            "id": 4
+                        },
+                        "events": {
+                            "rule": "repeated",
+                            "type": "int32",
+                            "id": 5
+                        },
+                        "eventsMinutes": {
+                            "rule": "repeated",
+                            "type": "int32",
+                            "id": 6
+                        },
+                        "stampId": {
+                            "type": "int32",
+                            "id": 7
+                        },
+                        "index": {
+                            "type": "uint32",
+                            "id": 8
+                        },
+                        "substitutionId": {
+                            "type": "uint32",
+                            "id": 9
+                        }
+                    }
+                },
+                "Protodata": {
+                    "fields": {
+                        "matchId": {
+                            "type": "uint32",
+                            "id": 1
+                        },
+                        "stampMatch": {
+                            "type": "int32",
+                            "id": 2
+                        },
+                        "teamIdHome": {
+                            "type": "uint32",
+                            "id": 3
+                        },
+                        "teamIdAway": {
+                            "type": "uint32",
+                            "id": 4
+                        },
+                        "goalHome": {
+                            "type": "uint32",
+                            "id": 5
+                        },
+                        "goalAway": {
+                            "type": "uint32",
+                            "id": 6
+                        },
+                        "fhDate": {
+                            "type": "uint64",
+                            "id": 7
+                        },
+                        "shDate": {
+                            "type": "uint64",
+                            "id": 8
+                        },
+                        "matchDate": {
+                            "type": "uint64",
+                            "id": 9
+                        },
+                        "status": {
+                            "type": "uint32",
+                            "id": 10
+                        },
+                        "trendHome": {
+                            "type": "string",
+                            "id": 11
+                        },
+                        "trendAway": {
+                            "type": "string",
+                            "id": 12
+                        },
+                        "teamHome": {
+                            "type": "string",
+                            "id": 13
+                        },
+                        "teamAway": {
+                            "type": "string",
+                            "id": 14
+                        },
+                        "playersHome": {
+                            "rule": "repeated",
+                            "type": "Player",
+                            "id": 15
+                        },
+                        "playersAway": {
+                            "rule": "repeated",
+                            "type": "Player",
+                            "id": 16
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

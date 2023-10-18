@@ -1,0 +1,3788 @@
+{
+    "protoData": [
+        {
+            "matchId": 13515,
+            "stampMatch": 7166,
+            "teamIdHome": 6,
+            "teamIdAway": 1,
+            "goalHome": 3,
+            "goalAway": 2,
+            "fhDate": "1694966433000",
+            "shDate": "1694970405000",
+            "matchDate": "1694966400000",
+            "status": 4,
+            "trendHome": "4231",
+            "trendAway": "3412",
+            "teamHome": "Fiorentina",
+            "teamAway": "Atalanta",
+            "playersHome": [
+                {
+                    "id": 4993,
+                    "name": "Italiano",
+                    "position": "ALL",
+                    "vote": 7,
+                    "stampId": 7145,
+                    "index": 17
+                },
+                {
+                    "id": 2815,
+                    "name": "Terracciano",
+                    "position": "P",
+                    "vote": 5.5,
+                    "events": [
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -20,
+                        53
+                    ],
+                    "stampId": 4526,
+                    "index": 1
+                },
+                {
+                    "id": 5885,
+                    "name": "Dodo'",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5706,
+                    "index": 2
+                },
+                {
+                    "id": 2164,
+                    "name": "Milenkovic",
+                    "position": "D",
+                    "vote": 5.5,
+                    "stampId": 5706,
+                    "index": 4
+                },
+                {
+                    "id": 5323,
+                    "name": "Martinez Quarta",
+                    "position": "D",
+                    "vote": 7,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        -46
+                    ],
+                    "stampId": 5706,
+                    "index": 5
+                },
+                {
+                    "id": 5449,
+                    "name": "Parisi",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        88
+                    ],
+                    "stampId": 6511,
+                    "index": 6
+                },
+                {
+                    "id": 526,
+                    "name": "Duncan",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -46,
+                        88
+                    ],
+                    "stampId": 6507,
+                    "index": 7
+                },
+                {
+                    "id": 1933,
+                    "name": "Mandragora",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        63
+                    ],
+                    "stampId": 6507,
+                    "index": 9
+                },
+                {
+                    "id": 4179,
+                    "name": "Gonzalez N.",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -35,
+                        63
+                    ],
+                    "stampId": 6507,
+                    "index": 11
+                },
+                {
+                    "id": 367,
+                    "name": "Bonaventura",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        -35
+                    ],
+                    "stampId": 6507,
+                    "index": 13
+                },
+                {
+                    "id": 4184,
+                    "name": "Brekalo",
+                    "position": "A",
+                    "vote": 6,
+                    "stampId": 6507,
+                    "index": 14
+                },
+                {
+                    "id": 5336,
+                    "name": "Nzola",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 6507,
+                    "index": 15
+                },
+                {
+                    "id": 252,
+                    "name": "Biraghi",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5715,
+                    "index": 3,
+                    "substitutionId": 5885
+                },
+                {
+                    "id": 4285,
+                    "name": "Arthur Melo",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        63
+                    ],
+                    "stampId": 6507,
+                    "index": 10,
+                    "substitutionId": 1933
+                },
+                {
+                    "id": 2172,
+                    "name": "Barak",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        88
+                    ],
+                    "stampId": 6507,
+                    "index": 8,
+                    "substitutionId": 526
+                },
+                {
+                    "id": 6409,
+                    "name": "Beltran L.",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 6884,
+                    "index": 16,
+                    "substitutionId": 5336
+                },
+                {
+                    "id": 2762,
+                    "name": "Kouame'",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        3,
+                        11
+                    ],
+                    "eventsMinutes": [
+                        63,
+                        76,
+                        76
+                    ],
+                    "stampId": 7177,
+                    "index": 12,
+                    "substitutionId": 4179
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 684,
+                    "name": "Gasperini",
+                    "position": "ALL",
+                    "vote": 5.5,
+                    "stampId": 7142,
+                    "index": 17
+                },
+                {
+                    "id": 4431,
+                    "name": "Carnesecchi",
+                    "position": "P",
+                    "vote": 6,
+                    "events": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -35,
+                        -46,
+                        76
+                    ],
+                    "stampId": 5926,
+                    "index": 1
+                },
+                {
+                    "id": 695,
+                    "name": "Toloi",
+                    "position": "D",
+                    "vote": 5.5,
+                    "stampId": 6035,
+                    "index": 2
+                },
+                {
+                    "id": 5526,
+                    "name": "Scalvini",
+                    "position": "D",
+                    "vote": 5,
+                    "stampId": 5924,
+                    "index": 3
+                },
+                {
+                    "id": 2640,
+                    "name": "Kolasinac",
+                    "position": "D",
+                    "vote": 5,
+                    "stampId": 5889,
+                    "index": 4
+                },
+                {
+                    "id": 554,
+                    "name": "Zappacosta",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 4787,
+                    "index": 5
+                },
+                {
+                    "id": 5354,
+                    "name": "Ruggeri",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6129,
+                    "index": 9
+                },
+                {
+                    "id": 22,
+                    "name": "De Roon",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        22,
+                        1,
+                        22
+                    ],
+                    "eventsMinutes": [
+                        -20,
+                        -34,
+                        53
+                    ],
+                    "stampId": 4787,
+                    "index": 7
+                },
+                {
+                    "id": 5792,
+                    "name": "Ederson D.s.",
+                    "position": "C",
+                    "vote": 5,
+                    "stampId": 5922,
+                    "index": 8
+                },
+                {
+                    "id": 5685,
+                    "name": "Koopmeiners",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        3,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -20,
+                        74
+                    ],
+                    "stampId": 6051,
+                    "index": 11
+                },
+                {
+                    "id": 5995,
+                    "name": "De Ketelaere",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 6051,
+                    "index": 13
+                },
+                {
+                    "id": 4730,
+                    "name": "Lookman",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        3,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        53,
+                        59
+                    ],
+                    "stampId": 6051,
+                    "index": 15
+                },
+                {
+                    "id": 4433,
+                    "name": "Zortea",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        59,
+                        65
+                    ],
+                    "stampId": 5149,
+                    "index": 6,
+                    "substitutionId": 554
+                },
+                {
+                    "id": 2077,
+                    "name": "Pasalic",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 6051,
+                    "index": 16,
+                    "substitutionId": 4730
+                },
+                {
+                    "id": 4870,
+                    "name": "Adopo",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 6051,
+                    "index": 12,
+                    "substitutionId": 5685
+                },
+                {
+                    "id": 5001,
+                    "name": "Miranchuk",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6051,
+                    "index": 10,
+                    "substitutionId": 5354
+                },
+                {
+                    "id": 2137,
+                    "name": "Scamacca",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 6051,
+                    "index": 14,
+                    "substitutionId": 5995
+                }
+            ]
+        },
+        {
+            "matchId": 13516,
+            "stampMatch": 7286,
+            "teamIdHome": 7,
+            "teamIdAway": 17,
+            "goalHome": 4,
+            "goalAway": 2,
+            "fhDate": "1694955659000",
+            "shDate": "1694959766000",
+            "matchDate": "1694955600000",
+            "status": 4,
+            "trendHome": "433",
+            "trendAway": "4231",
+            "teamHome": "Frosinone",
+            "teamAway": "Sassuolo",
+            "playersHome": [
+                {
+                    "id": 4867,
+                    "name": "Turati",
+                    "position": "P",
+                    "vote": 7.5,
+                    "events": [
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -7,
+                        -24
+                    ],
+                    "stampId": 6946,
+                    "index": 1
+                },
+                {
+                    "id": 6238,
+                    "name": "Oyono",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 6483,
+                    "index": 2
+                },
+                {
+                    "id": 4952,
+                    "name": "Monterisi",
+                    "position": "D",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 4122,
+                    "index": 3
+                },
+                {
+                    "id": 76,
+                    "name": "Romagnoli S.",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        -34
+                    ],
+                    "stampId": 6725,
+                    "index": 5
+                },
+                {
+                    "id": 2252,
+                    "name": "Marchizza",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 5492,
+                    "index": 6
+                },
+                {
+                    "id": 1976,
+                    "name": "Mazzitelli",
+                    "position": "C",
+                    "vote": 8,
+                    "events": [
+                        3,
+                        3,
+                        14,
+                        11
+                    ],
+                    "eventsMinutes": [
+                        70,
+                        76,
+                        86,
+                        76
+                    ],
+                    "stampId": 7395,
+                    "index": 7
+                },
+                {
+                    "id": 6175,
+                    "name": "Barrenechea",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        55,
+                        69
+                    ],
+                    "stampId": 6572,
+                    "index": 9
+                },
+                {
+                    "id": 6241,
+                    "name": "Gelli",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14,
+                        17
+                    ],
+                    "eventsMinutes": [
+                        81,
+                        82,
+                        82
+                    ],
+                    "stampId": 6572,
+                    "index": 11
+                },
+                {
+                    "id": 5734,
+                    "name": "Soule'",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        22
+                    ],
+                    "eventsMinutes": [
+                        70
+                    ],
+                    "stampId": 6572,
+                    "index": 13
+                },
+                {
+                    "id": 6439,
+                    "name": "Cheddira",
+                    "position": "A",
+                    "vote": 7.5,
+                    "events": [
+                        9,
+                        23
+                    ],
+                    "eventsMinutes": [
+                        -49,
+                        96
+                    ],
+                    "stampId": 7256,
+                    "index": 14
+                },
+                {
+                    "id": 694,
+                    "name": "Baez",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 6572,
+                    "index": 15
+                },
+                {
+                    "id": 5364,
+                    "name": "Caso",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        46,
+                        80
+                    ],
+                    "stampId": 6572,
+                    "index": 16,
+                    "substitutionId": 694
+                },
+                {
+                    "id": 2183,
+                    "name": "Garritano",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        69
+                    ],
+                    "stampId": 6752,
+                    "index": 10,
+                    "substitutionId": 6175
+                },
+                {
+                    "id": 4947,
+                    "name": "Brescianini",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        82
+                    ],
+                    "stampId": 7211,
+                    "index": 12,
+                    "substitutionId": 6241
+                },
+                {
+                    "id": 2006,
+                    "name": "Lirola",
+                    "position": "D",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        3
+                    ],
+                    "eventsMinutes": [
+                        86,
+                        96
+                    ],
+                    "stampId": 7212,
+                    "index": 8,
+                    "substitutionId": 1976
+                },
+                {
+                    "id": 4432,
+                    "name": "Okoli",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 6725,
+                    "index": 4,
+                    "substitutionId": 4952
+                },
+                {
+                    "id": 691,
+                    "name": "Di Francesco",
+                    "position": "ALL",
+                    "vote": 7.5,
+                    "stampId": 7350,
+                    "index": 17
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 2178,
+                    "name": "Cragno",
+                    "position": "P",
+                    "vote": 6.5,
+                    "events": [
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -49,
+                        70,
+                        76,
+                        96
+                    ],
+                    "stampId": 7166,
+                    "index": 1
+                },
+                {
+                    "id": 4426,
+                    "name": "Toljan",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        21
+                    ],
+                    "eventsMinutes": [
+                        -24
+                    ],
+                    "stampId": 7345,
+                    "index": 2
+                },
+                {
+                    "id": 4982,
+                    "name": "Erlic",
+                    "position": "D",
+                    "vote": 5,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 7407,
+                    "index": 3
+                },
+                {
+                    "id": 5747,
+                    "name": "Tressoldi",
+                    "position": "D",
+                    "vote": 4.5,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        -49
+                    ],
+                    "stampId": 7222,
+                    "index": 4
+                },
+                {
+                    "id": 5509,
+                    "name": "Vina",
+                    "position": "D",
+                    "vote": 7,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -7,
+                        53
+                    ],
+                    "stampId": 4548,
+                    "index": 5
+                },
+                {
+                    "id": 6219,
+                    "name": "Boloca",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        66
+                    ],
+                    "stampId": 5368,
+                    "index": 7
+                },
+                {
+                    "id": 5511,
+                    "name": "Matheus Henrique",
+                    "position": "C",
+                    "vote": 5.5,
+                    "stampId": 7057,
+                    "index": 9
+                },
+                {
+                    "id": 531,
+                    "name": "Berardi",
+                    "position": "A",
+                    "vote": 6,
+                    "stampId": 6873,
+                    "index": 10
+                },
+                {
+                    "id": 5451,
+                    "name": "Bajrami",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        53
+                    ],
+                    "stampId": 5368,
+                    "index": 11
+                },
+                {
+                    "id": 6060,
+                    "name": "Lauriente'",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        53
+                    ],
+                    "stampId": 5368,
+                    "index": 13
+                },
+                {
+                    "id": 2038,
+                    "name": "Pinamonti",
+                    "position": "A",
+                    "vote": 7.5,
+                    "events": [
+                        3,
+                        3,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -7,
+                        -24,
+                        80
+                    ],
+                    "stampId": 6206,
+                    "index": 15
+                },
+                {
+                    "id": 6205,
+                    "name": "Mulattieri",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6951,
+                    "index": 16,
+                    "substitutionId": 2038
+                },
+                {
+                    "id": 5776,
+                    "name": "Ceide",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        53
+                    ],
+                    "stampId": 7215,
+                    "index": 14,
+                    "substitutionId": 6060
+                },
+                {
+                    "id": 5844,
+                    "name": "Thorstvedt",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        53
+                    ],
+                    "stampId": 6068,
+                    "index": 12,
+                    "substitutionId": 5451
+                },
+                {
+                    "id": 2692,
+                    "name": "Castillejo",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        66
+                    ],
+                    "stampId": 5994,
+                    "index": 8,
+                    "substitutionId": 6219
+                },
+                {
+                    "id": 6426,
+                    "name": "Pedersen",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        53
+                    ],
+                    "stampId": 5990,
+                    "index": 6,
+                    "substitutionId": 5509
+                },
+                {
+                    "id": 5474,
+                    "name": "Dionisi",
+                    "position": "ALL",
+                    "vote": 4.5,
+                    "stampId": 7352,
+                    "index": 17
+                }
+            ]
+        },
+        {
+            "matchId": 13517,
+            "stampMatch": 6901,
+            "teamIdHome": 8,
+            "teamIdAway": 13,
+            "goalHome": 2,
+            "goalAway": 2,
+            "fhDate": "1694889989000",
+            "shDate": "1694893813000",
+            "matchDate": "1694889900000",
+            "status": 4,
+            "trendHome": "442",
+            "trendAway": "433",
+            "teamHome": "Genoa",
+            "teamAway": "Napoli",
+            "playersHome": [
+                {
+                    "id": 5116,
+                    "name": "Martinez Jo.",
+                    "position": "P",
+                    "vote": 5.5,
+                    "events": [
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        77,
+                        85
+                    ],
+                    "stampId": 6324,
+                    "index": 1
+                },
+                {
+                    "id": 5739,
+                    "name": "De Winter",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        1,
+                        22
+                    ],
+                    "eventsMinutes": [
+                        -32,
+                        -40
+                    ],
+                    "stampId": 6339,
+                    "index": 2
+                },
+                {
+                    "id": 2285,
+                    "name": "Bani",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        -40
+                    ],
+                    "stampId": 6340,
+                    "index": 3
+                },
+                {
+                    "id": 5365,
+                    "name": "Dragusin",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": 6341,
+                    "index": 4
+                },
+                {
+                    "id": 2593,
+                    "name": "Martin",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        90
+                    ],
+                    "stampId": 6474,
+                    "index": 5
+                },
+                {
+                    "id": 791,
+                    "name": "Sabelli",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 6474,
+                    "index": 7
+                },
+                {
+                    "id": 170,
+                    "name": "Badelj",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        75
+                    ],
+                    "stampId": 6474,
+                    "index": 9
+                },
+                {
+                    "id": 470,
+                    "name": "Strootman",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        56,
+                        77
+                    ],
+                    "stampId": 6474,
+                    "index": 10
+                },
+                {
+                    "id": 5791,
+                    "name": "Frendrup",
+                    "position": "C",
+                    "vote": 6.5,
+                    "stampId": 6474,
+                    "index": 12
+                },
+                {
+                    "id": 5800,
+                    "name": "Gudmundsson A.",
+                    "position": "C",
+                    "vote": 7,
+                    "stampId": 6474,
+                    "index": 13
+                },
+                {
+                    "id": 6228,
+                    "name": "Retegui",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        1,
+                        3
+                    ],
+                    "eventsMinutes": [
+                        -33,
+                        56
+                    ],
+                    "stampId": 6474,
+                    "index": 14
+                },
+                {
+                    "id": 698,
+                    "name": "Gilardino",
+                    "position": "ALL",
+                    "vote": 6,
+                    "stampId": 6474,
+                    "index": 15
+                },
+                {
+                    "id": 5514,
+                    "name": "Vasquez",
+                    "position": "D",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        90
+                    ],
+                    "stampId": 6474,
+                    "index": 6,
+                    "substitutionId": 2593
+                },
+                {
+                    "id": 4404,
+                    "name": "Thorsby",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6474,
+                    "index": 11,
+                    "substitutionId": 470
+                },
+                {
+                    "id": 4427,
+                    "name": "Malinovskyi",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 6474,
+                    "index": 8,
+                    "substitutionId": 791
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 675,
+                    "name": "Garcia R.",
+                    "position": "ALL",
+                    "vote": 5.5,
+                    "stampId": 7212,
+                    "index": 17
+                },
+                {
+                    "id": 572,
+                    "name": "Meret",
+                    "position": "P",
+                    "vote": 5.5,
+                    "events": [
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -40,
+                        56
+                    ],
+                    "stampId": 4495,
+                    "index": 1
+                },
+                {
+                    "id": 2816,
+                    "name": "Di Lorenzo",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": -2672,
+                    "index": 2
+                },
+                {
+                    "id": 5750,
+                    "name": "Ostigard",
+                    "position": "D",
+                    "vote": 5,
+                    "stampId": 5440,
+                    "index": 3
+                },
+                {
+                    "id": 256,
+                    "name": "Juan Jesus",
+                    "position": "D",
+                    "vote": 5.5,
+                    "stampId": 2464,
+                    "index": 4
+                },
+                {
+                    "id": 142,
+                    "name": "Mario Rui",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        58
+                    ],
+                    "stampId": 4619,
+                    "index": 5
+                },
+                {
+                    "id": 4220,
+                    "name": "Zambo Anguissa",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        58
+                    ],
+                    "stampId": 4610,
+                    "index": 7
+                },
+                {
+                    "id": 4287,
+                    "name": "Lobotka",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        75
+                    ],
+                    "stampId": 5618,
+                    "index": 9
+                },
+                {
+                    "id": 152,
+                    "name": "Zielinski",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        22
+                    ],
+                    "eventsMinutes": [
+                        84
+                    ],
+                    "stampId": 6237,
+                    "index": 11
+                },
+                {
+                    "id": 4479,
+                    "name": "Elmas",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -1,
+                        46
+                    ],
+                    "stampId": 5579,
+                    "index": 12
+                },
+                {
+                    "id": 4661,
+                    "name": "Osimhen",
+                    "position": "A",
+                    "vote": 5.5,
+                    "stampId": 5579,
+                    "index": 14
+                },
+                {
+                    "id": 5839,
+                    "name": "Kvaratskhelia",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        89
+                    ],
+                    "stampId": 6431,
+                    "index": 15
+                },
+                {
+                    "id": 5840,
+                    "name": "Olivera",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        58
+                    ],
+                    "stampId": 4627,
+                    "index": 6,
+                    "substitutionId": 142
+                },
+                {
+                    "id": 6402,
+                    "name": "Cajuste ",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15,
+                        22,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        75,
+                        76,
+                        78
+                    ],
+                    "stampId": 5774,
+                    "index": 10,
+                    "substitutionId": 4287
+                },
+                {
+                    "id": 536,
+                    "name": "Politano",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        3,
+                        12
+                    ],
+                    "eventsMinutes": [
+                        46,
+                        84,
+                        84
+                    ],
+                    "stampId": 7073,
+                    "index": 13,
+                    "substitutionId": 4479
+                },
+                {
+                    "id": 5998,
+                    "name": "Zerbin",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        89
+                    ],
+                    "stampId": 6431,
+                    "index": 16,
+                    "substitutionId": 5839
+                },
+                {
+                    "id": 4371,
+                    "name": "Raspadori",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        3
+                    ],
+                    "eventsMinutes": [
+                        58,
+                        76
+                    ],
+                    "stampId": 6244,
+                    "index": 8,
+                    "substitutionId": 4220
+                }
+            ]
+        },
+        {
+            "matchId": 13519,
+            "stampMatch": 6807,
+            "teamIdHome": 9,
+            "teamIdAway": 12,
+            "goalHome": 5,
+            "goalAway": 1,
+            "fhDate": "1694880039000",
+            "shDate": "1694883851000",
+            "matchDate": "1694880000000",
+            "status": 4,
+            "trendHome": "352",
+            "trendAway": "433",
+            "teamHome": "Inter",
+            "teamAway": "Milan",
+            "playersHome": [
+                {
+                    "id": 826,
+                    "name": "Inzaghi S.",
+                    "position": "ALL",
+                    "vote": 8.5,
+                    "stampId": 7050,
+                    "index": 17
+                },
+                {
+                    "id": 2428,
+                    "name": "Sommer",
+                    "position": "P",
+                    "vote": 6,
+                    "events": [
+                        4
+                    ],
+                    "eventsMinutes": [
+                        57
+                    ],
+                    "stampId": 4521,
+                    "index": 1
+                },
+                {
+                    "id": 2525,
+                    "name": "Darmian",
+                    "position": "D",
+                    "vote": 5.5,
+                    "stampId": 4547,
+                    "index": 2
+                },
+                {
+                    "id": 513,
+                    "name": "Acerbi",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": 4553,
+                    "index": 3
+                },
+                {
+                    "id": 2120,
+                    "name": "Bastoni",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5519,
+                    "index": 4
+                },
+                {
+                    "id": 5513,
+                    "name": "Dumfries",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        20
+                    ],
+                    "eventsMinutes": [
+                        -38
+                    ],
+                    "stampId": 5519,
+                    "index": 6
+                },
+                {
+                    "id": 1870,
+                    "name": "Barella",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        63
+                    ],
+                    "stampId": 5519,
+                    "index": 7
+                },
+                {
+                    "id": 2194,
+                    "name": "Calhanoglu",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        1,
+                        9,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        72,
+                        79,
+                        80
+                    ],
+                    "stampId": 5896,
+                    "index": 9
+                },
+                {
+                    "id": 2529,
+                    "name": "Mkhitaryan",
+                    "position": "C",
+                    "vote": 8.5,
+                    "events": [
+                        3,
+                        3,
+                        22
+                    ],
+                    "eventsMinutes": [
+                        -5,
+                        69,
+                        93
+                    ],
+                    "stampId": 6722,
+                    "index": 11
+                },
+                {
+                    "id": 254,
+                    "name": "Dimarco",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -5,
+                        63
+                    ],
+                    "stampId": 5896,
+                    "index": 12
+                },
+                {
+                    "id": 4871,
+                    "name": "Thuram",
+                    "position": "A",
+                    "vote": 7.5,
+                    "events": [
+                        3,
+                        14,
+                        11
+                    ],
+                    "eventsMinutes": [
+                        -38,
+                        63,
+                        -38
+                    ],
+                    "stampId": 7026,
+                    "index": 14
+                },
+                {
+                    "id": 2764,
+                    "name": "Martinez L.",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        22
+                    ],
+                    "eventsMinutes": [
+                        69
+                    ],
+                    "stampId": 5896,
+                    "index": 16
+                },
+                {
+                    "id": 4268,
+                    "name": "Arnautovic",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        63
+                    ],
+                    "stampId": 5896,
+                    "index": 15,
+                    "substitutionId": 4871
+                },
+                {
+                    "id": 2848,
+                    "name": "Frattesi",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        3,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        63,
+                        93,
+                        93
+                    ],
+                    "stampId": 7301,
+                    "index": 8,
+                    "substitutionId": 1870
+                },
+                {
+                    "id": 5719,
+                    "name": "Asllani",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 5896,
+                    "index": 10,
+                    "substitutionId": 2194
+                },
+                {
+                    "id": 322,
+                    "name": "De Vrij",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5523,
+                    "index": 5,
+                    "substitutionId": 2120
+                },
+                {
+                    "id": 5877,
+                    "name": "Carlos Augusto",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        63
+                    ],
+                    "stampId": 7217,
+                    "index": 13,
+                    "substitutionId": 254
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 676,
+                    "name": "Pioli",
+                    "position": "ALL",
+                    "vote": 4,
+                    "stampId": 7052,
+                    "index": 17
+                },
+                {
+                    "id": 4312,
+                    "name": "Maignan",
+                    "position": "P",
+                    "vote": 6,
+                    "events": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -5,
+                        -38,
+                        69,
+                        79,
+                        93
+                    ],
+                    "stampId": 6652,
+                    "index": 1
+                },
+                {
+                    "id": 357,
+                    "name": "Calabria",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 5707,
+                    "index": 2
+                },
+                {
+                    "id": 6055,
+                    "name": "Thiaw",
+                    "position": "D",
+                    "vote": 4,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        -24
+                    ],
+                    "stampId": 6899,
+                    "index": 4
+                },
+                {
+                    "id": 2633,
+                    "name": "Kjaer",
+                    "position": "D",
+                    "vote": 4.5,
+                    "stampId": 6895,
+                    "index": 5
+                },
+                {
+                    "id": 4292,
+                    "name": "Hernandez T.",
+                    "position": "D",
+                    "vote": 5,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        61
+                    ],
+                    "stampId": 6732,
+                    "index": 6
+                },
+                {
+                    "id": 4199,
+                    "name": "Loftus-Cheek",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        86
+                    ],
+                    "stampId": 6231,
+                    "index": 7
+                },
+                {
+                    "id": 148,
+                    "name": "Krunic",
+                    "position": "C",
+                    "vote": 5.5,
+                    "stampId": 6231,
+                    "index": 9
+                },
+                {
+                    "id": 6224,
+                    "name": "Reijnders",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6231,
+                    "index": 10
+                },
+                {
+                    "id": 2423,
+                    "name": "Pulisic",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        56
+                    ],
+                    "stampId": 6231,
+                    "index": 12
+                },
+                {
+                    "id": 4200,
+                    "name": "Giroud",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        57,
+                        77
+                    ],
+                    "stampId": 6231,
+                    "index": 14
+                },
+                {
+                    "id": 4510,
+                    "name": "Rafael Leao",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        57
+                    ],
+                    "stampId": 6231,
+                    "index": 16
+                },
+                {
+                    "id": 6227,
+                    "name": "Okafor",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6231,
+                    "index": 11,
+                    "substitutionId": 6224
+                },
+                {
+                    "id": 2438,
+                    "name": "Jovic",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6231,
+                    "index": 15,
+                    "substitutionId": 4200
+                },
+                {
+                    "id": 5295,
+                    "name": "Musah",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        86
+                    ],
+                    "stampId": 6231,
+                    "index": 8,
+                    "substitutionId": 4199
+                },
+                {
+                    "id": 4856,
+                    "name": "Chukwueze",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        56
+                    ],
+                    "stampId": 6740,
+                    "index": 13,
+                    "substitutionId": 2423
+                },
+                {
+                    "id": 464,
+                    "name": "Florenzi",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6734,
+                    "index": 3,
+                    "substitutionId": 357
+                }
+            ]
+        },
+        {
+            "matchId": 13520,
+            "stampMatch": 7016,
+            "teamIdHome": 10,
+            "teamIdAway": 11,
+            "goalHome": 3,
+            "goalAway": 1,
+            "fhDate": "1694869311000",
+            "shDate": "1694873168000",
+            "matchDate": "1694869200000",
+            "status": 4,
+            "trendHome": "352",
+            "trendAway": "433",
+            "teamHome": "Juventus",
+            "teamAway": "Lazio",
+            "playersHome": [
+                {
+                    "id": 686,
+                    "name": "Allegri",
+                    "position": "ALL",
+                    "vote": 7.5,
+                    "stampId": 7290,
+                    "index": 17
+                },
+                {
+                    "id": 453,
+                    "name": "Szczesny",
+                    "position": "P",
+                    "vote": 6.5,
+                    "events": [
+                        4
+                    ],
+                    "eventsMinutes": [
+                        65
+                    ],
+                    "stampId": 4999,
+                    "index": 1
+                },
+                {
+                    "id": 5831,
+                    "name": "Gatti",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        61
+                    ],
+                    "stampId": 4779,
+                    "index": 2
+                },
+                {
+                    "id": 2788,
+                    "name": "Bremer",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        -16
+                    ],
+                    "stampId": 5107,
+                    "index": 3
+                },
+                {
+                    "id": 4237,
+                    "name": "Danilo",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": 4370,
+                    "index": 4
+                },
+                {
+                    "id": 4973,
+                    "name": "Mckennie",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        67,
+                        71
+                    ],
+                    "stampId": 5424,
+                    "index": 5
+                },
+                {
+                    "id": 5813,
+                    "name": "Miretti",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -8,
+                        59
+                    ],
+                    "stampId": 5424,
+                    "index": 7
+                },
+                {
+                    "id": 827,
+                    "name": "Locatelli",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        22
+                    ],
+                    "eventsMinutes": [
+                        -10
+                    ],
+                    "stampId": 5424,
+                    "index": 9
+                },
+                {
+                    "id": 2379,
+                    "name": "Rabiot",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        20
+                    ],
+                    "eventsMinutes": [
+                        -26
+                    ],
+                    "stampId": 5424,
+                    "index": 10
+                },
+                {
+                    "id": 4711,
+                    "name": "Kostic",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 5424,
+                    "index": 11
+                },
+                {
+                    "id": 2841,
+                    "name": "Vlahovic",
+                    "position": "A",
+                    "vote": 8,
+                    "events": [
+                        3,
+                        3,
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -10,
+                        67,
+                        82,
+                        83
+                    ],
+                    "stampId": 6125,
+                    "index": 13
+                },
+                {
+                    "id": 2002,
+                    "name": "Chiesa",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        3,
+                        14,
+                        11
+                    ],
+                    "eventsMinutes": [
+                        -26,
+                        83,
+                        -26
+                    ],
+                    "stampId": 7036,
+                    "index": 15
+                },
+                {
+                    "id": 4465,
+                    "name": "Fagioli",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        59
+                    ],
+                    "stampId": 5424,
+                    "index": 8,
+                    "substitutionId": 5813
+                },
+                {
+                    "id": 4662,
+                    "name": "Weah",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        71
+                    ],
+                    "stampId": 5426,
+                    "index": 6,
+                    "substitutionId": 4973
+                },
+                {
+                    "id": 5520,
+                    "name": "Cambiaso",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        15,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        59,
+                        77
+                    ],
+                    "stampId": 5746,
+                    "index": 12,
+                    "substitutionId": 4711
+                },
+                {
+                    "id": 2012,
+                    "name": "Milik",
+                    "position": "A",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        83
+                    ],
+                    "stampId": 6125,
+                    "index": 16,
+                    "substitutionId": 2002
+                },
+                {
+                    "id": 2097,
+                    "name": "Kean",
+                    "position": "A",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        83
+                    ],
+                    "stampId": 6125,
+                    "index": 14,
+                    "substitutionId": 2841
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 688,
+                    "name": "Sarri",
+                    "position": "ALL",
+                    "vote": 5,
+                    "stampId": 7291,
+                    "index": 17
+                },
+                {
+                    "id": 2814,
+                    "name": "Provedel",
+                    "position": "P",
+                    "vote": 7,
+                    "events": [
+                        4,
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -10,
+                        -26,
+                        67
+                    ],
+                    "stampId": 5156,
+                    "index": 1
+                },
+                {
+                    "id": 2188,
+                    "name": "Marusic",
+                    "position": "D",
+                    "vote": 5,
+                    "stampId": 5671,
+                    "index": 2
+                },
+                {
+                    "id": 5498,
+                    "name": "Casale",
+                    "position": "D",
+                    "vote": 5,
+                    "stampId": 5256,
+                    "index": 3
+                },
+                {
+                    "id": 460,
+                    "name": "Romagnoli",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": -2717,
+                    "index": 4
+                },
+                {
+                    "id": 140,
+                    "name": "Hysaj",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 3872,
+                    "index": 5
+                },
+                {
+                    "id": 5948,
+                    "name": "Kamada",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        20,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        65,
+                        78
+                    ],
+                    "stampId": 5834,
+                    "index": 7
+                },
+                {
+                    "id": 333,
+                    "name": "Cataldi",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 5834,
+                    "index": 9
+                },
+                {
+                    "id": 2085,
+                    "name": "Luis Alberto",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        65
+                    ],
+                    "stampId": 5834,
+                    "index": 11
+                },
+                {
+                    "id": 335,
+                    "name": "Felipe Anderson",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        73
+                    ],
+                    "stampId": 5834,
+                    "index": 12
+                },
+                {
+                    "id": 785,
+                    "name": "Immobile",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        68
+                    ],
+                    "stampId": 5834,
+                    "index": 14
+                },
+                {
+                    "id": 632,
+                    "name": "Zaccagni",
+                    "position": "C",
+                    "vote": 5.5,
+                    "stampId": 5834,
+                    "index": 16
+                },
+                {
+                    "id": 2728,
+                    "name": "Pellegrini Lu.",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        15,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        46,
+                        85
+                    ],
+                    "stampId": 6407,
+                    "index": 6,
+                    "substitutionId": 140
+                },
+                {
+                    "id": 4186,
+                    "name": "Guendouzi",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        78
+                    ],
+                    "stampId": 5837,
+                    "index": 8,
+                    "substitutionId": 5948
+                },
+                {
+                    "id": 4459,
+                    "name": "Rovella",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 5834,
+                    "index": 10,
+                    "substitutionId": 333
+                },
+                {
+                    "id": 2489,
+                    "name": "Pedro",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        73
+                    ],
+                    "stampId": 5834,
+                    "index": 13,
+                    "substitutionId": 335
+                },
+                {
+                    "id": 6226,
+                    "name": "Castellanos",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        68
+                    ],
+                    "stampId": 5834,
+                    "index": 15,
+                    "substitutionId": 785
+                }
+            ]
+        },
+        {
+            "matchId": 13522,
+            "stampMatch": 6755,
+            "teamIdHome": 15,
+            "teamIdAway": 5,
+            "goalHome": 7,
+            "fhDate": "1694976371000",
+            "shDate": "1694980231000",
+            "matchDate": "1694976300000",
+            "status": 4,
+            "trendHome": "352",
+            "trendAway": "433",
+            "teamHome": "Roma",
+            "teamAway": "Empoli",
+            "playersHome": [
+                {
+                    "id": 4270,
+                    "name": "Rui Patricio",
+                    "position": "P",
+                    "vote": 6.5,
+                    "stampId": 6442,
+                    "index": 1
+                },
+                {
+                    "id": 2296,
+                    "name": "Mancini",
+                    "position": "D",
+                    "vote": 7,
+                    "events": [
+                        3
+                    ],
+                    "eventsMinutes": [
+                        86
+                    ],
+                    "stampId": 6288,
+                    "index": 2
+                },
+                {
+                    "id": 4317,
+                    "name": "N'dicka",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 5237,
+                    "index": 3
+                },
+                {
+                    "id": 5239,
+                    "name": "Llorente D.",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": -3219,
+                    "index": 4
+                },
+                {
+                    "id": 6220,
+                    "name": "Kristensen",
+                    "position": "D",
+                    "vote": 7,
+                    "events": [
+                        22
+                    ],
+                    "eventsMinutes": [
+                        -8
+                    ],
+                    "stampId": 1816,
+                    "index": 5
+                },
+                {
+                    "id": 779,
+                    "name": "Cristante",
+                    "position": "C",
+                    "vote": 8,
+                    "events": [
+                        21,
+                        3,
+                        23
+                    ],
+                    "eventsMinutes": [
+                        55,
+                        80,
+                        86
+                    ],
+                    "stampId": 6427,
+                    "index": 6
+                },
+                {
+                    "id": 468,
+                    "name": "Paredes",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        75
+                    ],
+                    "stampId": 5642,
+                    "index": 7
+                },
+                {
+                    "id": 2543,
+                    "name": "Renato Sanches",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        3,
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -8,
+                        -39,
+                        46
+                    ],
+                    "stampId": 5642,
+                    "index": 9
+                },
+                {
+                    "id": 1852,
+                    "name": "Spinazzola",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        84
+                    ],
+                    "stampId": 6157,
+                    "index": 11
+                },
+                {
+                    "id": 309,
+                    "name": "Dybala",
+                    "position": "A",
+                    "vote": 7.5,
+                    "events": [
+                        9,
+                        1,
+                        3,
+                        14,
+                        11
+                    ],
+                    "eventsMinutes": [
+                        -2,
+                        -38,
+                        55,
+                        63,
+                        -2
+                    ],
+                    "stampId": 6882,
+                    "index": 13
+                },
+                {
+                    "id": 2531,
+                    "name": "Lukaku",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        3,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        82,
+                        84
+                    ],
+                    "stampId": 6157,
+                    "index": 15
+                },
+                {
+                    "id": 5190,
+                    "name": "Mourinho",
+                    "position": "ALL",
+                    "vote": 7.5,
+                    "stampId": 6823,
+                    "index": 17
+                },
+                {
+                    "id": 441,
+                    "name": "Belotti",
+                    "position": "A",
+                    "vote": 7,
+                    "events": [
+                        15,
+                        21,
+                        22
+                    ],
+                    "eventsMinutes": [
+                        63,
+                        80,
+                        82
+                    ],
+                    "stampId": 6467,
+                    "index": 14,
+                    "substitutionId": 309
+                },
+                {
+                    "id": 5795,
+                    "name": "Azmoun",
+                    "position": "A",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        84
+                    ],
+                    "stampId": 6158,
+                    "index": 16,
+                    "substitutionId": 2531
+                },
+                {
+                    "id": 5423,
+                    "name": "Bove",
+                    "position": "C",
+                    "vote": 6.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 6110,
+                    "index": 10,
+                    "substitutionId": 2543
+                },
+                {
+                    "id": 6420,
+                    "name": "Pagano",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        75
+                    ],
+                    "stampId": 5647,
+                    "index": 8,
+                    "substitutionId": 468
+                },
+                {
+                    "id": 795,
+                    "name": "El Shaarawy",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        84
+                    ],
+                    "stampId": 6157,
+                    "index": 12,
+                    "substitutionId": 1852
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 316,
+                    "name": "Berisha",
+                    "position": "P",
+                    "vote": 5.5,
+                    "events": [
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4,
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -2,
+                        -8,
+                        -36,
+                        55,
+                        80,
+                        82,
+                        86
+                    ],
+                    "stampId": 6273,
+                    "index": 1
+                },
+                {
+                    "id": 2104,
+                    "name": "Bereszynski",
+                    "position": "D",
+                    "vote": 4,
+                    "stampId": 6597,
+                    "index": 2
+                },
+                {
+                    "id": 4374,
+                    "name": "Walukiewicz",
+                    "position": "D",
+                    "vote": 4.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 3826,
+                    "index": 3
+                },
+                {
+                    "id": 393,
+                    "name": "Luperto",
+                    "position": "D",
+                    "vote": 4,
+                    "stampId": 6599,
+                    "index": 5
+                },
+                {
+                    "id": 770,
+                    "name": "Pezzella Giu.",
+                    "position": "D",
+                    "vote": 4.5,
+                    "stampId": 6305,
+                    "index": 6
+                },
+                {
+                    "id": 6010,
+                    "name": "Fazzini",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 3827,
+                    "index": 9
+                },
+                {
+                    "id": 4436,
+                    "name": "Cambiaghi",
+                    "position": "A",
+                    "vote": 5,
+                    "stampId": 6262,
+                    "index": 15
+                },
+                {
+                    "id": 5497,
+                    "name": "Zanetti",
+                    "position": "ALL",
+                    "vote": 4,
+                    "stampId": 6869,
+                    "index": 16
+                },
+                {
+                    "id": 27,
+                    "name": "Grassi",
+                    "position": "C",
+                    "vote": 4.5,
+                    "events": [
+                        10
+                    ],
+                    "eventsMinutes": [
+                        -36
+                    ],
+                    "stampId": 6177,
+                    "index": 8
+                },
+                {
+                    "id": 5457,
+                    "name": "Maleh",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        1
+                    ],
+                    "eventsMinutes": [
+                        58
+                    ],
+                    "stampId": 6255,
+                    "index": 7
+                },
+                {
+                    "id": 5500,
+                    "name": "Cancellieri",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -39,
+                        60
+                    ],
+                    "stampId": 4851,
+                    "index": 11
+                },
+                {
+                    "id": 472,
+                    "name": "Destro",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        60
+                    ],
+                    "stampId": 4762,
+                    "index": 13
+                },
+                {
+                    "id": 2819,
+                    "name": "Caputo",
+                    "position": "A",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        60
+                    ],
+                    "stampId": 6430,
+                    "index": 14,
+                    "substitutionId": 472
+                },
+                {
+                    "id": 5332,
+                    "name": "Bastoni S.",
+                    "position": "D",
+                    "vote": 4.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 6645,
+                    "index": 10,
+                    "substitutionId": 6010
+                },
+                {
+                    "id": 5010,
+                    "name": "Ismajli",
+                    "position": "D",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 6252,
+                    "index": 4,
+                    "substitutionId": 4374
+                },
+                {
+                    "id": 5823,
+                    "name": "Baldanzi",
+                    "position": "C",
+                    "vote": 5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        60
+                    ],
+                    "stampId": 6683,
+                    "index": 12,
+                    "substitutionId": 5500
+                }
+            ]
+        },
+        {
+            "matchId": 13514,
+            "stampMatch": 7153,
+            "teamIdHome": 21,
+            "teamIdAway": 19,
+            "fhDate": "1694946687000",
+            "shDate": "1694950764000",
+            "matchDate": "1694946600000",
+            "status": 4,
+            "trendHome": "352",
+            "trendAway": "352",
+            "teamHome": "Cagliari",
+            "teamAway": "Udinese",
+            "playersHome": [
+                {
+                    "id": 3,
+                    "name": "Radunovic",
+                    "position": "P",
+                    "vote": 6.5,
+                    "stampId": 6065,
+                    "index": 1
+                },
+                {
+                    "id": 6464,
+                    "name": "Wieteska",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        2
+                    ],
+                    "eventsMinutes": [
+                        95
+                    ],
+                    "stampId": 7061,
+                    "index": 2
+                },
+                {
+                    "id": 6230,
+                    "name": "Dossena",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 2639,
+                    "index": 3
+                },
+                {
+                    "id": 6438,
+                    "name": "Hatzidiakos",
+                    "position": "D",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 4
+                },
+                {
+                    "id": 4461,
+                    "name": "Zappa",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 6
+                },
+                {
+                    "id": 1871,
+                    "name": "Deiola",
+                    "position": "C",
+                    "vote": 5,
+                    "stampId": 7486,
+                    "index": 11
+                },
+                {
+                    "id": 6424,
+                    "name": "Prati",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 9
+                },
+                {
+                    "id": 6232,
+                    "name": "Makoumbou",
+                    "position": "C",
+                    "vote": 6,
+                    "stampId": 6127,
+                    "index": 8
+                },
+                {
+                    "id": 4421,
+                    "name": "Augello",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        66
+                    ],
+                    "stampId": 6127,
+                    "index": 12
+                },
+                {
+                    "id": 247,
+                    "name": "Pavoletti",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        60
+                    ],
+                    "stampId": 6127,
+                    "index": 14
+                },
+                {
+                    "id": 5297,
+                    "name": "Luvumbo",
+                    "position": "A",
+                    "vote": 6,
+                    "stampId": 6127,
+                    "index": 16
+                },
+                {
+                    "id": 4350,
+                    "name": "Ranieri C.",
+                    "position": "ALL",
+                    "vote": 6,
+                    "stampId": 6127,
+                    "index": 17
+                },
+                {
+                    "id": 5701,
+                    "name": "Obert",
+                    "position": "D",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 5,
+                    "substitutionId": 6438
+                },
+                {
+                    "id": 5406,
+                    "name": "Di Pardo",
+                    "position": "D",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 10,
+                    "substitutionId": 6424
+                },
+                {
+                    "id": 4514,
+                    "name": "Nandez",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        80
+                    ],
+                    "stampId": 6127,
+                    "index": 7,
+                    "substitutionId": 4461
+                },
+                {
+                    "id": 6231,
+                    "name": "Azzi",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        66
+                    ],
+                    "stampId": 6127,
+                    "index": 13,
+                    "substitutionId": 4421
+                },
+                {
+                    "id": 5311,
+                    "name": "Shomurodov",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        60
+                    ],
+                    "stampId": 6127,
+                    "index": 15,
+                    "substitutionId": 247
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 2211,
+                    "name": "Silvestri",
+                    "position": "P",
+                    "vote": 6,
+                    "stampId": -2861,
+                    "index": 1
+                },
+                {
+                    "id": 5677,
+                    "name": "Perez N.",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 7492,
+                    "index": 2
+                },
+                {
+                    "id": 5847,
+                    "name": "Bijol",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 1334,
+                    "index": 3
+                },
+                {
+                    "id": 4263,
+                    "name": "Kabasele",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14,
+                        17
+                    ],
+                    "eventsMinutes": [
+                        -38,
+                        -38
+                    ],
+                    "stampId": 2243,
+                    "index": 4
+                },
+                {
+                    "id": 5848,
+                    "name": "Ebosele",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        71
+                    ],
+                    "stampId": 5647,
+                    "index": 7
+                },
+                {
+                    "id": 5119,
+                    "name": "Samardzic",
+                    "position": "C",
+                    "vote": 6,
+                    "stampId": 7491,
+                    "index": 9
+                },
+                {
+                    "id": 2392,
+                    "name": "Walace",
+                    "position": "C",
+                    "vote": 5,
+                    "stampId": 7489,
+                    "index": 10
+                },
+                {
+                    "id": 5850,
+                    "name": "Lovric",
+                    "position": "C",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        71
+                    ],
+                    "stampId": 5647,
+                    "index": 11
+                },
+                {
+                    "id": 5555,
+                    "name": "Kamara H.",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": 5647,
+                    "index": 13
+                },
+                {
+                    "id": 6215,
+                    "name": "Lucca",
+                    "position": "A",
+                    "vote": 5.5,
+                    "stampId": 7092,
+                    "index": 14
+                },
+                {
+                    "id": 2369,
+                    "name": "Thauvin",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        63,
+                        82
+                    ],
+                    "stampId": 6285,
+                    "index": 15
+                },
+                {
+                    "id": 5883,
+                    "name": "Sottil A.",
+                    "position": "ALL",
+                    "vote": 6,
+                    "stampId": 6285,
+                    "index": 17
+                },
+                {
+                    "id": 6023,
+                    "name": "Guessand A.",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        46
+                    ],
+                    "stampId": 5277,
+                    "index": 6,
+                    "substitutionId": 5994
+                },
+                {
+                    "id": 6256,
+                    "name": "Ferreira J.",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        71
+                    ],
+                    "stampId": 5652,
+                    "index": 8,
+                    "substitutionId": 5848
+                },
+                {
+                    "id": 5994,
+                    "name": "Ebosse",
+                    "position": "D",
+                    "vote": 55,
+                    "events": [
+                        15,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -38,
+                        46
+                    ],
+                    "stampId": 4103,
+                    "index": 5,
+                    "substitutionId": 4263
+                },
+                {
+                    "id": 6481,
+                    "name": "Payero",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        71
+                    ],
+                    "stampId": 5653,
+                    "index": 12,
+                    "substitutionId": 5850
+                },
+                {
+                    "id": 302,
+                    "name": "Pereyra",
+                    "position": "C",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        82
+                    ],
+                    "stampId": 6285,
+                    "index": 16,
+                    "substitutionId": 2369
+                }
+            ]
+        },
+        {
+            "matchId": 13521,
+            "stampMatch": 7239,
+            "teamIdHome": 143,
+            "teamIdAway": 119,
+            "goalHome": 1,
+            "goalAway": 1,
+            "fhDate": "1694955668000",
+            "shDate": "1694959662000",
+            "matchDate": "1694955600000",
+            "status": 4,
+            "trendHome": "3412",
+            "trendAway": "433",
+            "teamHome": "Monza",
+            "teamAway": "Lecce",
+            "playersHome": [
+                {
+                    "id": 5853,
+                    "name": "Sorrentino A.",
+                    "position": "P",
+                    "vote": 5,
+                    "events": [
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -3
+                    ],
+                    "stampId": 5443,
+                    "index": 1
+                },
+                {
+                    "id": 226,
+                    "name": "Izzo",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 2693,
+                    "index": 2
+                },
+                {
+                    "id": 4904,
+                    "name": "Mari'",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -20,
+                        46
+                    ],
+                    "stampId": 3972,
+                    "index": 3
+                },
+                {
+                    "id": 4958,
+                    "name": "Caldirola",
+                    "position": "D",
+                    "vote": 4.5,
+                    "events": [
+                        2
+                    ],
+                    "eventsMinutes": [
+                        85
+                    ],
+                    "stampId": 6436,
+                    "index": 5
+                },
+                {
+                    "id": 5838,
+                    "name": "Birindelli",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        62,
+                        67
+                    ],
+                    "stampId": 5408,
+                    "index": 6
+                },
+                {
+                    "id": 801,
+                    "name": "Gagliardini",
+                    "position": "C",
+                    "vote": 6,
+                    "stampId": 7013,
+                    "index": 8
+                },
+                {
+                    "id": 2741,
+                    "name": "Pessina",
+                    "position": "C",
+                    "vote": 6.5,
+                    "stampId": 7013,
+                    "index": 9
+                },
+                {
+                    "id": 5880,
+                    "name": "Ciurria",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        76,
+                        89
+                    ],
+                    "stampId": 6667,
+                    "index": 10
+                },
+                {
+                    "id": 5878,
+                    "name": "Colpani",
+                    "position": "C",
+                    "vote": 7,
+                    "events": [
+                        3,
+                        12
+                    ],
+                    "eventsMinutes": [
+                        -24,
+                        -24
+                    ],
+                    "stampId": 7254,
+                    "index": 12
+                },
+                {
+                    "id": 1958,
+                    "name": "Caprari",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        17,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -27,
+                        -27
+                    ],
+                    "stampId": 6667,
+                    "index": 13
+                },
+                {
+                    "id": 4923,
+                    "name": "Colombo",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        22,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -24,
+                        67
+                    ],
+                    "stampId": 6667,
+                    "index": 15
+                },
+                {
+                    "id": 1909,
+                    "name": "Palladino",
+                    "position": "ALL",
+                    "vote": 6,
+                    "stampId": 6667,
+                    "index": 17
+                },
+                {
+                    "id": 4925,
+                    "name": "Carboni A.",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15,
+                        16
+                    ],
+                    "eventsMinutes": [
+                        46,
+                        69
+                    ],
+                    "stampId": 5609,
+                    "index": 4,
+                    "substitutionId": 4904
+                },
+                {
+                    "id": 4530,
+                    "name": "Kyriakopoulos",
+                    "position": "D",
+                    "vote": 55,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        89
+                    ],
+                    "stampId": 6667,
+                    "index": 11,
+                    "substitutionId": 5880
+                },
+                {
+                    "id": 729,
+                    "name": "Pereira P.",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15,
+                        1
+                    ],
+                    "eventsMinutes": [
+                        67,
+                        87
+                    ],
+                    "stampId": 6667,
+                    "index": 16,
+                    "substitutionId": 4923
+                },
+                {
+                    "id": 6250,
+                    "name": "Maric",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        67
+                    ],
+                    "stampId": 17652,
+                    "index": 7,
+                    "substitutionId": 5838
+                },
+                {
+                    "id": 5882,
+                    "name": "Mota",
+                    "position": "A",
+                    "vote": 5.5,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        -27
+                    ],
+                    "stampId": 6667,
+                    "index": 14,
+                    "substitutionId": 1958
+                }
+            ],
+            "playersAway": [
+                {
+                    "id": 2134,
+                    "name": "Falcone",
+                    "position": "P",
+                    "vote": 7,
+                    "events": [
+                        4
+                    ],
+                    "eventsMinutes": [
+                        -25
+                    ],
+                    "stampId": 7122,
+                    "index": 1
+                },
+                {
+                    "id": 5867,
+                    "name": "Gendrey",
+                    "position": "D",
+                    "vote": 6,
+                    "stampId": -2536,
+                    "index": 2
+                },
+                {
+                    "id": 5835,
+                    "name": "Baschirotto",
+                    "position": "D",
+                    "vote": 4.5,
+                    "events": [
+                        2
+                    ],
+                    "eventsMinutes": [
+                        55
+                    ],
+                    "stampId": 4613,
+                    "index": 3
+                },
+                {
+                    "id": 5603,
+                    "name": "Pongracic",
+                    "position": "D",
+                    "vote": 6.5,
+                    "stampId": 6603,
+                    "index": 4
+                },
+                {
+                    "id": 4502,
+                    "name": "Gallo",
+                    "position": "D",
+                    "vote": 5.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5728,
+                    "index": 5
+                },
+                {
+                    "id": 6410,
+                    "name": "Kaba",
+                    "position": "C",
+                    "vote": 6,
+                    "stampId": 5728,
+                    "index": 7
+                },
+                {
+                    "id": 6394,
+                    "name": "Ramadani",
+                    "position": "C",
+                    "vote": 6,
+                    "stampId": 5728,
+                    "index": 8
+                },
+                {
+                    "id": 6222,
+                    "name": "Rafia",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        1,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -47,
+                        54
+                    ],
+                    "stampId": 5728,
+                    "index": 9
+                },
+                {
+                    "id": 6207,
+                    "name": "Almqvist",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        78
+                    ],
+                    "stampId": 5960,
+                    "index": 11
+                },
+                {
+                    "id": 6435,
+                    "name": "Krstovic",
+                    "position": "A",
+                    "vote": 6.5,
+                    "events": [
+                        9,
+                        14
+                    ],
+                    "eventsMinutes": [
+                        -3,
+                        77
+                    ],
+                    "stampId": 5961,
+                    "index": 13
+                },
+                {
+                    "id": 6001,
+                    "name": "Banda",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        14
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5961,
+                    "index": 15
+                },
+                {
+                    "id": 2824,
+                    "name": "D'aversa",
+                    "position": "ALL",
+                    "vote": 6,
+                    "stampId": 5961,
+                    "index": 17
+                },
+                {
+                    "id": 6257,
+                    "name": "Dorgu",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5742,
+                    "index": 6,
+                    "substitutionId": 4502
+                },
+                {
+                    "id": 6465,
+                    "name": "Touba",
+                    "position": "D",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        78
+                    ],
+                    "stampId": 6791,
+                    "index": 12,
+                    "substitutionId": 6207
+                },
+                {
+                    "id": 4486,
+                    "name": "Strefezza",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        74
+                    ],
+                    "stampId": 5961,
+                    "index": 16,
+                    "substitutionId": 6001
+                },
+                {
+                    "id": 5869,
+                    "name": "Blin",
+                    "position": "C",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        54
+                    ],
+                    "stampId": 5728,
+                    "index": 10,
+                    "substitutionId": 6222
+                },
+                {
+                    "id": 4359,
+                    "name": "Piccoli",
+                    "position": "A",
+                    "vote": 6,
+                    "events": [
+                        15
+                    ],
+                    "eventsMinutes": [
+                        77
+                    ],
+                    "stampId": 6784,
+                    "index": 14,
+                    "substitutionId": 6435
+                }
+            ]
+        }
+    ]
+}
