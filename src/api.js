@@ -27,9 +27,15 @@ async function getSignedUri(match) {
     const errors = tmpRespJson[respId].errors;
     if (errors.length > 0) {
         console.log(`couldn't get signedUri: status code ${errors[0].statusCode}: ${errors[0].message}`);
-        return null;
+        return {
+            serverDate: resp.headers.date,
+            signedUri: null
+        }
     }
-    return resp[respId].resources[0].signedUri
+    return {
+        serverDate: resp.headers.date,
+        signedUri: resp[respId].resources[0].signedUri,
+    }
 }
 
 async function getProtobufMessage(signedUri) {

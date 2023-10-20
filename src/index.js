@@ -20,21 +20,28 @@ export default {
 		const api = require('./api');
 
 		const match = 9;
-		const signedUri = await api.getSignedUri(match);
+		const {signedUri, headerServerDate} = await api.getSignedUri(match);
 		if (!signedUri) {
 			console.log("couldn't get signedUri");
 			return;
 		}
-		
+
 		const protoMsg = await api.getProtobufMessage(signedUri)
 		if (!protoMsg.ok) {
 			console.log("couldn't get proto message");
 			return;
 		}
-		const msg = api.decodeProtobufMessage(msg, './proto.json')
+		const newData = api.decodeProtobufMessage(msg, './proto.json')
 
-		// You could store this result in KV, write to a D1 Database, or publish to a Queue.
-		// In this template, we'll just log the result:
-		console.log(`trigger fired at ${event.cron}: ${wasSuccessful}`);
+		// TODO
+		const serverDate = new Date(headerServerDate);
+		const serverDateLastUpdate = new Date();
+		const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
+		console.log(serverDeltaTime)
+
+		const dataLib = require('./data')
+		//const dataArray = null // TODO: get data array from storage
+		//dataLib.appendLiveData(dataArray, newData, serverDeltaTime)
+		// TODO: push dataArray to storage
 	},
 };
