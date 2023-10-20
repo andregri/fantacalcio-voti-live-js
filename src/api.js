@@ -21,7 +21,6 @@ async function getSignedUri(match) {
         body: JSON.stringify(payload)
     });
     const responseJson = await response.json();
-    console.log(responseJson)
 
     const serverDate = new Date(serverDate);
     const serverDateLastUpdate = new Date();
@@ -34,9 +33,6 @@ async function getSignedUri(match) {
 }
 
 async function getProtobufMessage(signedUri) {
-
-    str(base64.b64encode(response.content))
-
     const response = await fetch(signedUri, {
         method: "GET",
         headers: {
@@ -68,4 +64,4 @@ function decodeProtobufMessage(msg, protoFile) {
     return data;
 }
 
-module.exports = { decodeProtobufMessage };
+module.exports = { getSignedUri, getProtobufMessage, decodeProtobufMessage };
