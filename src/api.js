@@ -5,7 +5,7 @@ async function getSignedUri(match) {
     const payload = {
         "resourcesUri": [uri]
     }
-    const response = await fetch(apiUrl, {
+    const resp = await fetch(apiUrl, {
         method: "POST",
         headers: {
             "Accept": "*/*",
@@ -21,14 +21,7 @@ async function getSignedUri(match) {
         body: JSON.stringify(payload)
     });
 
-    const serverDate = new Date(serverDate);
-    const serverDateLastUpdate = new Date();
-    const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
-
-    return {
-        response: response,
-        serverDeltaTime: serverDeltaTime,
-    }
+    return resp;
 }
 
 async function getProtobufMessage(signedUri) {
