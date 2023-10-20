@@ -16,12 +16,20 @@ export default {
 	// The scheduled handler is invoked at the interval set in our wrangler.toml's
 	// [[triggers]] configuration.
 	async scheduled(event, env, ctx) {
-		// A Cron Trigger can make requests to other endpoints on the Internet,
-		// publish to a Queue, query a D1 Database, and much more.
-		//
-		// We'll keep it simple and make an API call to a Cloudflare API:
-		let resp = await fetch('https://api.cloudflare.com/client/v4/ips');
-		let wasSuccessful = resp.ok ? 'success' : 'fail';
+		// Get data from api
+		const api = require('api');
+		const match = 9;
+		const signedUri = await api.getSignedUri(match);
+		if (!signedUri.response.ok) {
+			console.log("couldn't get signed uri");
+			return;
+		}
+		const protoMsg = await api.getProtobufMessage(signedUri.response.text())
+		if (!protoMsg.ok) {
+			console.log("couldn't get proto message");
+			return;
+		}
+		const msg = api.decodeProtobufMessage(msg, './proto.json')
 
 		// You could store this result in KV, write to a D1 Database, or publish to a Queue.
 		// In this template, we'll just log the result:

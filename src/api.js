@@ -20,14 +20,13 @@ async function getSignedUri(match) {
         },
         body: JSON.stringify(payload)
     });
-    const responseJson = await response.json();
 
     const serverDate = new Date(serverDate);
     const serverDateLastUpdate = new Date();
     const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
 
     return {
-        response: responseJson,
+        response: response,
         serverDeltaTime: serverDeltaTime,
     }
 }
@@ -51,7 +50,7 @@ async function getProtobufMessage(signedUri) {
         },
     })
 
-    return response.text()
+    return response
 }
 
 function decodeProtobufMessage(msg, protoFile) {
