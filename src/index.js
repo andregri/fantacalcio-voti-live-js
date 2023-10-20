@@ -18,25 +18,14 @@ export default {
 	async scheduled(event, env, ctx) {
 		// Get data from api
 		const api = require('./api');
+
 		const match = 9;
-
-		const tmpResp = await api.getSignedUri(match);
-		if (!tmpResp.ok) {
-			console.log(`couldn't get signed uri: ${tmpResp.status}`);
-			return;
-		}
-
-		// parse the api response contained in the response body
-		const tmpRespText = await tmpResp.text();
-		const tmpRespJson = JSON.parse(tmpRespText);
-		const respId = Object.keys(tmpRespJson)[0];
-		const errors = tmpRespJson[respId].errors;
-		if (errors.length > 0) {
-			console.log(`couldn't get signed uri: status code ${errors[0].statusCode}: ${errors[0].message}`);
+		const signedUri = await api.getSignedUri(match);
+		if (!signedUri) {
+			console.log("couldn't get signedUri");
 			return;
 		}
 		
-		const signedUri = tmpRespText; // TODO json[uri]['resources'][0]['signedUri']
 		const protoMsg = await api.getProtobufMessage(signedUri)
 		if (!protoMsg.ok) {
 			console.log("couldn't get proto message");
