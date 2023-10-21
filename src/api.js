@@ -28,13 +28,14 @@ async function getSignedUri(match) {
     if (errors.length > 0) {
         console.log(`couldn't get signedUri: status code ${errors[0].statusCode}: ${errors[0].message}`);
         return {
-            serverDate: resp.headers.date,
+            serverDate: resp.headers.get('date'),
             signedUri: null
         }
     }
+
     return {
-        serverDate: resp.headers.date,
-        signedUri: resp[respId].resources[0].signedUri,
+        serverDate: resp.headers.get('date'),
+        signedUri: tmpRespJson[respId].resources[0].signedUri,
     }
 }
 
