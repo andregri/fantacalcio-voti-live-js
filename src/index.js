@@ -26,19 +26,21 @@ export default {
 			return;
 		}
 
-		const protoMsg = await api.getProtobufMessage(signedUri)
-		if (!protoMsg.ok) {
-			console.log("couldn't get proto message");
-			return;
-		}
-		const newData = api.decodeProtobufMessage(msg, './proto.json')
-
-		// TODO
 		const serverDate = new Date(headerServerDate);
 		const serverDateLastUpdate = new Date();
 		const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
 		console.log(serverDeltaTime)
 
+		const protoMsg = await api.getProtobufMessage(signedUri)
+		if (!protoMsg.ok) {
+			console.log("couldn't get proto message");
+			return;
+		}
+		const jsonDescriptor = require('./proto.json');
+		const newData = await api.decodeProtobufMessage(protoMsg, jsonDescriptor)
+		console.log(newData)
+
+		// TODO
 		const dataLib = require('./data')
 		//const dataArray = null // TODO: get data array from storage
 		//dataLib.appendLiveData(dataArray, newData, serverDeltaTime)
