@@ -1,6 +1,12 @@
 # fantacalcio-voti-live-js
 A nodejs library to download live data from fantacalcio.it api.
 
+## Get started
+Install dependencies, that is **protobufjs**:
+```console
+$ npm install
+```
+
 To download live data of day 9:
 ```console
 $ node index.js 9
