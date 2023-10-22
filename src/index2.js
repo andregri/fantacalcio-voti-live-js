@@ -37,7 +37,7 @@ async function main() {
 
     // append new data to old data
     const dataLib = require('./data')
-    dataLib.appendLiveData(oldData, newData, serverDate)
+    dataLib.appendLiveData(oldData, newData, serverDeltaTime)
 
     // write array data to file
     fs.writeFile("../data/9_array.json", JSON.stringify(oldData, null, 4), function (err) {
