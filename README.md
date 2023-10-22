@@ -1,10 +1,12 @@
-## Test cron triggers using wrangler
-On a terminal, run the local development server:
-```
-npx wrangler dev --test-scheduled
+# fantacalcio-voti-live-js
+A nodejs library to download live data from fantacalcio.it api.
+
+To download live data of day 9:
+```console
+$ node index.js 9
 ```
 
-On another terminal:
-```
-curl "http://localhost:8787/__scheduled"
+To save data to a file:
+```console
+$ node index.js 9 > live_data.json
 ```

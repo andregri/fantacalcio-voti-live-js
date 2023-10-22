@@ -2,7 +2,8 @@ async function main() {
 
     const api = require('./src/api');
 
-    const match = 9;
+    const match = process.argv[2]; // read the match from inputs
+
     const resp = await api.getSignedUri(match);
     const signedUri = resp.signedUri;
     if (!signedUri) {
