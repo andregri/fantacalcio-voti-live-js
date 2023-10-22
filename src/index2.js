@@ -17,22 +17,34 @@ async function main() {
     const protoMsg = await api.getProtobufMessage(signedUri)
 
     const jsonDescriptor = await api.getJsonDescriptor();
-    console.log(JSON.stringify(jsonDescriptor))
     const newData = await api.decodeProtobufMessage(protoMsg, jsonDescriptor)
 
-    // save the latest data to a file
+    // read old data, if exists
     var fs = require('fs');
+    var oldData = null;
+    try {
+        oldData = JSON.parse(fs.readFileSync('../data/9_array.json', 'utf8'));
+    } catch (err) {
+        oldData = JSON.parse(JSON.stringify(newData)); // deep copy
+    }
+
+    // write latest data to file
     fs.writeFile("../data/9.json", JSON.stringify(newData, null, 4), function (err) {
         if (err) {
             console.log(err);
         }
     });
 
-    // TODO
+    // append new data to old data
     const dataLib = require('./data')
-    //const dataArray = null // TODO: get data array from storage
-    //dataLib.appendLiveData(dataArray, newData, serverDeltaTime)
-    // TODO: push dataArray to storage
+    dataLib.appendLiveData(oldData, newData, serverDate)
+
+    // write array data to file
+    fs.writeFile("../data/9_array.json", JSON.stringify(oldData, null, 4), function (err) {
+        if (err) {
+            console.log(err);
+        }
+    });
 }
 
 main();
