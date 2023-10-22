@@ -15,8 +15,6 @@ async function main() {
     const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
 
     const protoMsg = await api.getProtobufMessage(signedUri)
-    const protoMsgB64 = Buffer.from(protoMsg).toString('base64');
-    //console.log(protoMsgB64)
 
     const jsonDescriptor = await api.getJsonDescriptor();
     console.log(JSON.stringify(jsonDescriptor))
