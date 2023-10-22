@@ -65,8 +65,6 @@ async function getSignedUri(match) {
         }
     }
 
-    console.log(resp.headers.get('date'))
-
     return {
         serverDate: resp.headers.get('date'),
         signedUri: tmpRespJson[respId].resources[0].signedUri,
