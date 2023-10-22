@@ -24,5 +24,8 @@
   "homepage": "https://github.com/andregri/fantacalcio-voti-live-js#readme",
   "dependencies": {
     "protobufjs": "^7.2.5"
+  },
+  "bin": {
+    "fantacalcio-voti-live": "node ./index.js"
   }
 }
