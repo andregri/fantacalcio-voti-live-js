@@ -1,6 +1,6 @@
 async function main() {
 
-    const api = require('./api');
+    const api = require('./src/api');
 
     const match = 9;
     const resp = await api.getSignedUri(match);
@@ -23,24 +23,24 @@ async function main() {
     var fs = require('fs');
     var oldData = null;
     try {
-        oldData = JSON.parse(fs.readFileSync('../data/9_array.json', 'utf8'));
+        oldData = JSON.parse(fs.readFileSync('./data/9_array.json', 'utf8'));
     } catch (err) {
         oldData = JSON.parse(JSON.stringify(newData)); // deep copy
     }
 
     // write latest data to file
-    fs.writeFile("../data/9.json", JSON.stringify(newData, null, 4), function (err) {
+    fs.writeFile("./data/9.json", JSON.stringify(newData, null, 4), function (err) {
         if (err) {
             console.log(err);
         }
     });
 
     // append new data to old data
-    const dataLib = require('./data')
+    const dataLib = require('./src/data')
     dataLib.appendLiveData(oldData, newData, serverDeltaTime)
 
     // write array data to file
-    fs.writeFile("../data/9_array.json", JSON.stringify(oldData, null, 4), function (err) {
+    fs.writeFile("./data/9_array.json", JSON.stringify(oldData, null, 4), function (err) {
         if (err) {
             console.log(err);
         }
