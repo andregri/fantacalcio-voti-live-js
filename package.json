@@ -1,0 +1,28 @@
+{
+  "name": "fantacalcio-voti-live",
+  "version": "1.0.0",
+  "description": "A nodejs library to download live data from fantacalcio.it api.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andregri/fantacalcio-voti-live-js.git"
+  },
+  "keywords": [
+    "fantacalcio"
+  ],
+  "author": "Andrea Grillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andregri/fantacalcio-voti-live-js/issues"
+  },
+  "homepage": "https://github.com/andregri/fantacalcio-voti-live-js#readme",
+  "dependencies": {
+    "protobufjs": "^7.2.5"
+  }
+}
