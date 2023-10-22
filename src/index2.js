@@ -3,13 +3,14 @@ async function main() {
     const api = require('./api');
 
     const match = 9;
-    const { signedUri, headerServerDate } = await api.getSignedUri(match);
+    const resp = await api.getSignedUri(match);
+    const signedUri = resp.signedUri;
     if (!signedUri) {
         console.log("couldn't get signedUri");
         return;
     }
 
-    const serverDate = new Date(headerServerDate);
+    const serverDate = new Date(resp.serverDate);
     const serverDateLastUpdate = new Date();
     const serverDeltaTime = serverDateLastUpdate.getTime() - serverDate.getTime();
 
