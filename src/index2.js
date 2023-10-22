@@ -15,11 +15,19 @@ async function main() {
 
     const protoMsg = await api.getProtobufMessage(signedUri)
     const protoMsgB64 = Buffer.from(protoMsg).toString('base64');
-    console.log(protoMsgB64)
+    //console.log(protoMsgB64)
 
     const jsonDescriptor = await api.getJsonDescriptor();
+    console.log(JSON.stringify(jsonDescriptor))
     const newData = await api.decodeProtobufMessage(protoMsg, jsonDescriptor)
-    console.log(newData)
+
+    // save the latest data to a file
+    var fs = require('fs');
+    fs.writeFile("../data/9.json", JSON.stringify(newData, null, 4), function (err) {
+        if (err) {
+            console.log(err);
+        }
+    });
 
     // TODO
     const dataLib = require('./data')
