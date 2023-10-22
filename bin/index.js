@@ -18,7 +18,7 @@
 
 async function main() {
 
-    const api = require('./src/api');
+    const api = require('../src/api');
 
     const match = process.argv[2]; // read the match from inputs
 
